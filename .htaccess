@@ -1,2 +1,2 @@
 RewriteEngine On
-Redirect 301 * http://oxramsociety.com
+Redirect 301 / http://oxramsociety.com
